@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "722588827077",
+    "project_id": "ticket-booking-85721",
+    "storage_bucket": "ticket-booking-85721.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:722588827077:android:8c258b6610dfc39e8a1fac",
+        "android_client_info": {
+          "package_name": "com.abc.ticketbooking"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "722588827077-e0ghnscs3l8csnm7t14db0jue9ivl8or.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDt7oBtUVri4byJnPJYk__1uI8UBmSHlk4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "722588827077-e0ghnscs3l8csnm7t14db0jue9ivl8or.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "722588827077-t422pdtmbhqpfrj54dv2rg05uoio97l2.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.abc.ticketbooking"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
